@@ -1,4 +1,4 @@
-# Sign Language Recognition System
+# AI-system-real-time-language-interpreter-for-disabilities
 
 A real-time sign language recognition system that supports multiple sign language systems including ASL (American Sign Language), BSL (British Sign Language), ISL (Indian Sign Language), and Word Gestures. The application uses computer vision and deep learning to detect and interpret hand gestures in real-time.
 
